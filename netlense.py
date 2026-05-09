@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🛡️ PriVi-NetLens v5.3 — Network Forensic Intelligence Dashboard
+🛡️ PriVi-NetLens v1.0 — Network Forensic Intelligence Dashboard
 Developed by Prince Ubebe | PriViSecurity
 """
 
