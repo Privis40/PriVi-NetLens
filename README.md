@@ -1,4 +1,4 @@
-# 🛡️ PriVi-NetLens v5.2
+# 🛡️ PriVi-NetLens v1.0
 **The Vanguard Command Center: Network Forensic Intelligence & IDS**
 
 PriVi-NetLens is a high-performance, terminal-based Network Intrusion Detection System (IDS) and Forensic Analyzer. Designed by **PriViSecurity**, it bridges the gap between raw data and human understandability.
