@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Privi-Netlense: Developed by: PriViSecurity**
+# 🛡️ Privi-Netlense: Developed by: PriViSecurity
 
 ![PriVi-Netlense Dashboard](Privi-Netlense.PNG)
 
