@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🛡️ PriVi-SPECTER: Forensic Credential Analysis Suite
-**Version 4.5 — Forensic Intelligence Edition Developed by: PriViSecurity**
+# 🛡️ Privi-Netlense: Developed by: PriViSecurity**
 
 ![PriVi-Netlense Dashboard](Privi-Netlense.PNG)
 
