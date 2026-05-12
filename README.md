@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ PriVi Network Recon Scanner v2.0: Developed by PriViSecurity
+# 🛡️ PriVi Network Recon Scanner v1.0: Developed by PriViSecurity
 
-![PriVi Network Recon Scanner](PriVi-Recon-Scanner.PNG)
+![PriVi Network Recon Scanner](Privi-Netlense.PNG)
 
 </div>
 
